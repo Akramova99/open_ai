@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42959737592",
+    "project_id": "nova-bfaf7",
+    "storage_bucket": "nova-bfaf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42959737592:android:e2135239c6deb5ec55a10d",
+        "android_client_info": {
+          "package_name": "com.example.open_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSzCokMtnkHEn--Zdv_wBhS29n7d1EwWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
